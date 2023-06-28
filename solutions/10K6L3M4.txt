@@ -1,0 +1,13 @@
+c clasp version 3.3.6
+c Reading from nonlinear_pb/10K6L3M4.opb
+c Solving...
+c Answer: 1
+v -x1 -x2 x3 -x4 x5 x6 x7 x8 x9 x10 x11 x12 x13 x14 x15 -x16 -x17 -x18 x19
+v -x20 x21 x22 x23 x24 x25 x26 x27 -x28 x29 -x30 x31 -x32 -x33 x34 x35 -x36
+v x37 -x38 x39 x40 x41 -x42 -x43 x44 x45
+s SATISFIABLE
+c 
+c Models         : 1+
+c Calls          : 1
+c Time           : 0.002s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+c CPU Time       : 0.002s

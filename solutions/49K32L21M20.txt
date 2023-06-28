@@ -1,0 +1,10 @@
+c clasp version 3.3.6
+c Reading from nonlinear_pb/49K32L21M20.opb
+c Solving...
+s UNKNOWN
+c 
+c INTERRUPTED    : 1
+c Models         : 0+
+c Calls          : 1
+c Time           : 43132.036s (Solving: 43131.67s 1st Model: 0.00s Unsat: 0.00s)
+c CPU Time       : 43027.296s

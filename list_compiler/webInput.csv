@@ -1,0 +1,178 @@
+5	2	0	1	
+9	4	1	2	
+10	3	0	1	
+10 	6	3	4	
+13	6	2	3
+15	6	1	3
+15	8	4	4
+16	5	0	2
+16	10	6	6
+16	6	2	2
+16	9	4	6
+17	8	3	4
+21	10	3	6
+21	10	5	4
+21	10	4	5
+25	8	3	2
+25	16	9	12
+25	12	5	6
+26	10	3	4
+26	15	8	9
+27	10	1	5
+27	16	10	8
+28	9	0	4
+28	18	12	10
+28	12	6	4
+28	15	6	10
+29	14	6	7
+33	16	7	8
+35	16	6	8
+35	18	9	9
+36	10	4	2
+36  25	16	20
+36	14	4	6
+36	21	12	12
+36	14	7	4
+36	21	10	15
+36	15	6	6
+36	20	10	12
+37	18	8	9
+40	12	2	4
+40	27	18	18
+41	20	9	10
+45	12	3	3
+45	32	22	24
+45	16	8	4
+45	28	15	21
+45	22	10	11
+49	12	5	2
+49	36	25	30
+49	16	3	6
+49	32	21	20
+49	18	7	6
+49	30	17	20
+49	24	11	12
+50	7	0	1
+50	42	35	36
+50	21	4	12
+50	28	18	12
+50	21	8	9
+50	28	15	16
+53	26	12	13
+55	18	9	4
+55  36	21	28
+56	10	0	2
+56  45	36	36
+56	22	3	12
+56  33	22	15
+57	14	1	4	238	–518	Wilbrink-Brouwer
+57  42	31	30	418	–338	 
+57	24	11	9	518	–338	S(2,3,19)
+57  32	16	20	238	–618	 
+57	28	13	14	3.27528	–4.27528	Conf
+61	30	14	15	3.40530	–4.40530	Paley(61); Martin-Williford; 2-graph\*
+63	22	1	11	155	–117	Krein2; Absolute bound
+63  40	28	20	107	–255	Krein1; Absolute bound
+63	30	13	15	335	–527	intersection-8 graph of a quasisymmetric 2-(36,16,12) design with intersection numbers 6, 8; O(7,2) Sp(6,2); pg(6,4,3); 2-graph\*
+63  32	16	16	427	–435	S(2,4,28); intersection-6 graph of a quasisymmetric 2-(28,12,11) design with intersection numbers 4, 6; NU(3,3); 2-graph\*
+64	14	6	2	614	–249	82; from a partial spread of 3-spaces: projective binary [14,6] code with weights 4, 8
+64  49	36	42	149	–714	OA(8,7)
+64	18	2	6	245	–618	complete enumeration by Haemers & Spence; GQ(3,5); from a hyperoval: projective 4-ary [6,3] code with weights 4, 6; Momihara: projective binary [18,6] code with weights 8, 12
+64  45	32	30	518	–345	 
+64	21	0	10	156	–117	Krein2; Absolute bound
+64  42	30	22	107	–256	Krein1; Absolute bound
+64	21	8	6	521	–342	OA(8,3); Bilin2x3(2); vanLint-Schrijver(1); from a Baer subplane: projective 4-ary [7,3] code with weights 4, 6; Brouwer(q=2,d=2,e=3,+); from a partial spread of 3-spaces: projective binary [21,6] code with weights 8, 12
+64  42	26	30	242	–621	OA(8,6); vanLint-Schrijver(2); Momihara
+64	27	10	12	336	–527	Mesner; from a unital: projective 4-ary [9,3] code with weights 6, 8; VO–(6,2) affine polar graph; RSHCD–; 2-graph
+64  36	20	20	427	–436	from 2-(8,2,1) with 1-factor Fickus et al.; 2-graph
+64	28	12	12	428	–435	OA(8,4); Wallis (AR(2,2)+S(2,2,8)); from a partial spread of 3-spaces: projective binary [28,6] code with weights 12, 16; RSHCD+; 2-graph
+64  35	18	20	335	–528	OA(8,5); Wallis2 (AR(2,2)+S(2,2,8)); Goethals-Seidel(2,7); VO+(6,2) affine polar graph; 2-graph
+64	30	18	10	108	–255	Absolute bound
+64  33	12	22	155	–118	Absolute bound
+65	32	15	16	3.53132	–4.53132	Gritsenko; 2-graph\*
+66	20	10	4	811	–254	Triangular graph T(12)
+66 45	28	36	154	–911	pg(5,8,4) does not exist (Lam et al.)
+69	20	7	5	523	–345	 
+69  48	32	36	245	–623	S(2,6,46) does not exist
+69	34	16	17	3.65334	–4.65334	Conf
+70	27	12	9	620	–349	S(2,3,21)
+70  42	23	28	249	–720	pg(6,6,4)?
+73	36	17	18	3.77236	–4.77236	Paley(73); 2-graph\*
+75	32	10	16	256	–818	Azarija-Marc
+75  42	25	21	718	–356	 
+76	21	2	7	256	–719	Haemers
+76  54	39	36	619	–356	 
+76	30	8	14	257	–818	Bondarenko, Prymak & Radchenko
+76  45	28	24	718	–357	 
+76	35	18	14	719	–356	 
+76  40	18	24	256	–819	no 2-graph\*
+77	16	0	4	255	–621	S(3,6,22); M22/24:Sym(6); Mesner; unique by Brouwer; intersection-6 graph of a quasisymmetric 2-(56,16,6) design with intersection numbers 4, 6
+77  60	47	45	521	–355	Witt 3-(22,6,1): intersection-2 graph of a quasisymmetric 2-(22,6,5) design with intersection numbers 0, 2
+77	38	18	19	3.88738	–4.88738	Conf
+78	22	11	4	912	–265	Triangular graph T(13)
+78  55	36	45	165	–1012	 
+81	16	7	2	716	–264	92; vanLint-Schrijver(1); Brouwer(q=3,d=2,e=2,+); from a partial spread: projective ternary [8,4] code with weights 3, 6
+81  64	49	56	164	–816	OA(9,8); vanLint-Schrijver(4)
+81	20	1	6	260	–720	Mesner; unique by Brouwer & Haemers; VO–(4,3) affine polar graph; projective ternary [10,4] code with weights 6, 9
+81  60	45	42	620	–360	 
+81	24	9	6	624	–356	OA(9,3); Wallis (AR(3,1)+S(2,3,9)); VNO+(4,3) affine polar graph; from a partial spread: projective ternary [12,4] code with weights 6, 9
+81  56	37	42	256	–724	OA(9,7)
+81	30	9	12	350	–630	Mesner; pg(5,5,2) - van Lint & Schrijver; VNO–(4,3) affine polar graph; Hamada-Helleseth: projective ternary [15,4] code with weights 9, 12
+81  50	31	30	530	–450	 
+81	32	13	12	532	–448	OA(9,4); Bilin2x2(3); vanLint-Schrijver(2); Wallis2 (AR(3,1)+S(2,3,9)); VO+(4,3) affine polar graph; from a partial spread: projective ternary [16,4] code with weights 9, 12
+81  48	27	30	348	–632	OA(9,6); vanLint-Schrijver(3)
+81	40	13	26	172	–148	Absolute bound
+81  40	25	14	138	–272	Absolute bound
+81	40	19	20	440	–540	Paley(81); OA(9,5); 2-graph\*
+82	36	15	16	441	–540	switch OA(9,5)+*; 2-graph
+82  45	24	25	440	–541	S(2,5,41); 2-graph
+85	14	3	2	434	–350	 
+85  70	57	60	250	–534	 
+85	20	3	5	350	–534	O(5,4) Sp(4,4); GQ(4,4)
+85  64	48	48	434	–450	 
+85	30	11	10	534	–450	 
+85  54	33	36	350	–634	S(2,6,51)?
+85	42	20	21	4.11042	–5.11042	2-graph\*?
+88	27	6	9	355	–632	 
+88  60	41	40	532	–455	 
+89	44	21	22	4.21744	–5.21744	Paley(89); Martin-Williford; 2-graph\*
+91	24	12	4	1013	–277	Triangular graph T(14)
+91  66	45	55	177	–1113	pg(6,10,5)?
+93	46	22	23	4.32246	–5.32246	Conf
+95	40	12	20	275	–1019	Azarija-Marc
+95  54	33	27	919	–375	 
+96	19	2	4	357	–538	Haemers(4); Muzychuk S6 (n=4,d=2); Brouwer-Koolen-Klin; Golemac et al.
+96  76	60	60	438	–457	 
+96	20	4	4	445	–450	Wallis (AR(4,1)+S(2,2,6)); GQ(5,3); Brouwer-Koolen-Klin; Golemac et al.
+96  75	58	60	350	–545	 
+96	35	10	14	363	–732	pg(5,6,2)?
+96  60	38	36	632	–463	 
+96	38	10	18	276	–1019	Degraer
+96  57	36	30	919	–376	 
+96	45	24	18	920	–375	 
+96  50	22	30	275	–1020	no 2-graph\*
+97	48	23	24	4.42448	–5.42448	Paley(97); 2-graph\*
+99	14	1	2	354	–444	 
+99  84	71	72	344	–454	 
+99	42	21	15	921	–377	 
+99  56	28	36	277	–1021	 
+99	48	22	24	454	–644	pg(8,5,4) does not exist (Lam et al.); 2-graph\*
+99  50	25	25	544	–554	S(2,5,45); 2-graph\*
+100	18	8	2	818	–281	102
+100 81	64	72	181	–918	 
+100	22	0	6	277	–822	HS.2 / M22.2 - Mesner; Higman-Sims; unique by Gewirtz; q222=0
+100 77	60	56	722	–377	q111=0
+100	27	10	6	727	–372	OA(10,3)
+100 72	50	56	272	–827	OA(10,8)?
+100	33	8	12	366	–733	 
+100 66	44	42	633	–466	 
+100	33	14	9	824	–375	S(2,3,25)
+100 66	41	48	275	–924	 
+100	33	18	7	1311	–288	Absolute bound
+100 66	39	52	188	–1411	Absolute bound
+100	36	14	12	636	–463	J2.2 / U3(3).2 - Hall-Janko; OA(10,4)
+100 63	38	42	363	–736	OA(10,7)?
+100	44	18	20	455	–644	Jørgensen-Klin; RSHCD–; 2-graph
+100 55	30	30	544	–555	2-graph
+100	45	20	20	545	–554	OA(10,5)?; RSHCD+; 2-graph
+100 54	28	30	454	–645	OA(10,6)?; 2-graph
